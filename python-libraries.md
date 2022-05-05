@@ -1,7 +1,8 @@
 
-| Python Libraries (randomly ordered)                                                                           |
+| Python Libraries (in no particular order)                                                                     |
 |---------------------------------------------------------------------------------------------------------------|
 | [numpy](https://numpy.org/doc/stable/reference)                                                               |
+| [JAX](https://jax.readthedocs.io/en/latest/index.html)                                                        |
 | [pytest](https://docs.pytest.org/en/7.1.x/), [@pytest.fixture](https://docs.pytest.org/en/6.2.x/fixture.html) |
 | [pandas](https://pandas.pydata.org/)                                                                          |
 | [feather](https://github.com/wesm/feather)                                                                    |
@@ -20,7 +21,7 @@
 | [dask](https://dask.org/)                                                                                     |
 | [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)                                     |
 | [joblib](https://joblib.readthedocs.io/en/latest/)                                                            |
-| [tensorflow](https://www.tensorflow.org/overview/) nb: prefer pytorch                                         |
+| [tensorflow](https://www.tensorflow.org/overview/)                                                            |
 | [string](https://docs.python.org/3/library/stdtypes.html#str)                                                 |
 | [spacy](https://spacy.io/)                                                                                    |
 | [zope interface](https://muthukadan.net/docs/zca.html)                                                        |
@@ -39,7 +40,6 @@
 | [altair](https://altair-viz.github.io/) Vega-based in python                                                  |
 | [st_aggrid](https://github.com/PablocFonseca/streamlit-aggrid)                                                |
 | [datatable](https://datatable.readthedocs.io/en/latest/)                                                      |
-| jupyter_black                                                                                                 |
 | [graphviz]()                                                                                                  |
 | [networkx](https://networkx.org/)                                                                             |
 | [holoviews](https://holoviews.org/)                                                                           |
