@@ -35,7 +35,7 @@
 | [requests](https://docs.python-requests.org/en/latest/)                                                       |
 | [dash](https://plotly.com/dash/)                                                                              |
 | [flask](https://flask.palletsprojects.com/en/2.1.x/tutorial/)                                                 |
-| [flasksqlalchemy](conda install -c conda-forge flask-sqlalchemy)                                              |
+| [flasksqlalchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)                                       |
 | [streamlit](https://docs.streamlit.io/)                                                                       |
 | [altair](https://altair-viz.github.io/) Vega-based in python                                                  |
 | [st_aggrid](https://github.com/PablocFonseca/streamlit-aggrid)                                                |

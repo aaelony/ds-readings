@@ -7,3 +7,8 @@
  - [Causal Inference in Statistics](https://www.datascienceassn.org/sites/default/files/CAUSAL%20INFERENCE%20IN%20STATISTICS.pdf)
  - [Confidence Intervals. Jaynes](https://bayes.wustl.edu/etj/articles/confidence.pdf)
  - [Statistical Rethinking. McElreath](https://github.com/rmcelreath/stat_rethinking_2022)
+
+# Arxiv links
+
+ - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges. Bronstein](https://arxiv.org/abs/2104.13478)
+ - 
