@@ -13,4 +13,5 @@
 # Arxiv links
 
  - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges. Bronstein](https://arxiv.org/abs/2104.13478)
- - 
+ - [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://arxiv.org/abs/1907.05008)
+ - [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212)
