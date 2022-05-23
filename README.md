@@ -9,6 +9,9 @@
  - [Confidence Intervals. Jaynes](https://bayes.wustl.edu/etj/articles/confidence.pdf)
  - [Statistical Rethinking. McElreath](https://github.com/rmcelreath/stat_rethinking_2022)
  - [Time Series Analysis and it's Applications. Shumway & Stoffer](http://pzs.dstu.dp.ua/DataMining/times/bibl/TimeSeries.pdf)
+ - [Doing Bayesian Data Analysis in brms and the tidyverse. Kurz](https://bookdown.org/content/3686/)
+ - [Applied longitudinal data analysis in brms and the tidyverse. Kurz](https://bookdown.org/content/4253/)
+ - [Statistical Rethinking with brms, ggplot2, and the tidyverse. Kurz](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
 
 # Arxiv links
 
