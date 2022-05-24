@@ -13,8 +13,16 @@
  - [Applied longitudinal data analysis in brms and the tidyverse. Kurz](https://bookdown.org/content/4253/)
  - [Statistical Rethinking with brms, ggplot2, and the tidyverse. Kurz](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
 
+--- 
 # Arxiv links
 
  - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges. Bronstein](https://arxiv.org/abs/2104.13478)
  - [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://arxiv.org/abs/1907.05008)
  - [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212)
+ - [Deep Reinforcement Learning](https://arxiv.org/pdf/2201.02135.pdf)
+ 
+---
+
+# Other compilations
+
+ - [aayushmalik/awesome-bayesian-statistics](https://github.com/aayushmalik/awesome-bayesian-statistics)
