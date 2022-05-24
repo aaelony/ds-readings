@@ -12,6 +12,7 @@
  - [Doing Bayesian Data Analysis in brms and the tidyverse. Kurz](https://bookdown.org/content/3686/)
  - [Applied longitudinal data analysis in brms and the tidyverse. Kurz](https://bookdown.org/content/4253/)
  - [Statistical Rethinking with brms, ggplot2, and the tidyverse. Kurz](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
+ - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 
 --- 
 # Arxiv links
