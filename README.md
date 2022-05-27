@@ -5,6 +5,7 @@
  - [Probabilistic Machine Learning. Kevin Murphy's 3 PML books](https://github.com/probml/pml-book)
  - [Bayesian Data Analysis Third edition. Gelman](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
  - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) 
+ - [Bayes Cognitive Modeling. Lee & Wagenmakers](https://webfiles.uci.edu/mdlee/LeeWagenmakers2013_Free.pdf)
  - [Causal Inference in Statistics](https://www.datascienceassn.org/sites/default/files/CAUSAL%20INFERENCE%20IN%20STATISTICS.pdf)
  - [Confidence Intervals. Jaynes](https://bayes.wustl.edu/etj/articles/confidence.pdf)
  - [Statistical Rethinking. McElreath](https://github.com/rmcelreath/stat_rethinking_2022)
