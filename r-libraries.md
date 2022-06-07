@@ -1,5 +1,5 @@
 
-Find excellent R packages via [r-pkg.org](https://r-pkg.org].
+Find excellent R packages via [r-pkg.org](https://r-pkg.org).
 
 | R Libraries (in no particular order)                                             |
 |----------------------------------------------------------------------------------|
