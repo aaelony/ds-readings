@@ -33,3 +33,13 @@
 # Good Video talks
 
  - [Real Data Science USA Meetup, May 26, 2022 - Szilard Pafka: Best Algo for Tabular/Business Data?](https://www.youtube.com/watch?v=igflZ8_9hdk&ab_channel=RealDataScienceUSA%28formerlyDataScience.LA%29)
+
+
+---
+
+# Implementations
+
+ - [Python ecosystem](python-libraries.md)
+ - [R ecosystem](r-libraries.md)
+ - [Clojure ecosystem](clojure-libraries.md]
+ - [Time Series Focus](time-series-focus.md)
