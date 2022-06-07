@@ -28,3 +28,8 @@
 # Other compilations
 
  - [aayushmalik/awesome-bayesian-statistics](https://github.com/aayushmalik/awesome-bayesian-statistics)
+
+
+# Good Video talks
+
+ - [Real Data Science USA Meetup, May 26, 2022 - Szilard Pafka: Best Algo for Tabular/Business Data?](https://www.youtube.com/watch?v=igflZ8_9hdk&ab_channel=RealDataScienceUSA%28formerlyDataScience.LA%29)

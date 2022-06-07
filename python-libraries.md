@@ -9,6 +9,7 @@
 | [ArviZ](https://arviz-devs.github.io/arviz/examples/index.html)                                               |
 | [PyMc](https://docs.pymc.io/en/v3/)                                                                           |
 | [Bambi](https://bambinos.github.io/bambi/main/index.html)                                                     |
+| [Pyro](http://pyro.ai/)                                                                                       |
 | [Seaborn](https://seaborn.pydata.org/)                                                                        |
 | [matplotlib](https://matplotlib.org/)                                                                         |
 | [plotnine](https://plotnine.readthedocs.io/en/stable/api.html) ggplot-esque!                                  |
@@ -22,7 +23,7 @@
 | [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)                                     |
 | [joblib](https://joblib.readthedocs.io/en/latest/)                                                            |
 | [tensorflow](https://www.tensorflow.org/overview/)                                                            |
-| [Spektral](https://github.com/danielegrattarola/spektral)                                                             |
+| [Spektral](https://github.com/danielegrattarola/spektral)                                                     |
 | [string](https://docs.python.org/3/library/stdtypes.html#str)                                                 |
 | [spacy](https://spacy.io/)                                                                                    |
 | [zope interface](https://muthukadan.net/docs/zca.html)                                                        |
@@ -52,12 +53,3 @@
 | Type hints. [typing](https://docs.python.org/3/library/typing.html)                                           |
 
 
-## Time-series
-
-| Time Series libraries                                     | Description                                                                                                              |
-|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [Spektral](https://github.com/danielegrattarola/spektral) | Supports [ARMA convolutions](https://arxiv.org/abs/1901.01343)                                                           |
-|                                                           | [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2202.08756) |
-|                                                           | [Probabilistic Forecasting with Temporal Convolutional Neural Network](https://github.com/oneday88/deepTCN)              |
-| [cesium]()
-| pyg                                                       |                                                                                                                          |
