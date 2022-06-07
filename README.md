@@ -41,5 +41,5 @@
 
  - [Python ecosystem](python-libraries.md)
  - [R ecosystem](r-libraries.md)
- - [Clojure ecosystem](clojure-libraries.md]
+ - [Clojure ecosystem](clojure-libraries.md)
  - [Time Series Focus](time-series-focus.md)
