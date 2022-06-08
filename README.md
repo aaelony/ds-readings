@@ -25,6 +25,11 @@
  - [Applied longitudinal data analysis in brms and the tidyverse. Kurz](https://bookdown.org/content/4253/)
  - [Statistical Rethinking with brms, ggplot2, and the tidyverse. Kurz](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
 
+
+## DL
+
+ - [Deep Learning. Ian Goodfellow, Yoshua Bengio, Aaron Courville ](https://www.deeplearningbook.org/)
+
 ## RL
 
  - [Reinforcement Learning: An Introduction. Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/ebook/)
