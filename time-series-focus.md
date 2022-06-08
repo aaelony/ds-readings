@@ -12,7 +12,7 @@
 |                                                                          | [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2202.08756) |
 |                                                                          | [Probabilistic Forecasting with Temporal Convolutional Neural Network](https://github.com/oneday88/deepTCN)              |
 | [cesium]()                                                               |                                                                                                                          |
-| pyg                                                                      |                                                                                                                          |
+| [pyg](https://pytorch-geometric.readthedocs.io/en/latest/)               | PyG (PyTorch Geometric) to easily write and train Graph Neural Networks (GNNs). [Cheatsheet](https://pytorch-geometric.readthedocs.io/en/latest/notes/cheatsheet.html)           |
 | [pyro forecasting](https://docs.pyro.ai/en/stable/contrib.forecast.html) |                                                                                                                          |
 |                                                                          |                                                                                                                          |
 
