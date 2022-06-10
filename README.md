@@ -35,7 +35,7 @@
  - [Reinforcement Learning: An Introduction. Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/ebook/)
  - [Berkeley Deep Reinforcement Learning Course CS285](https://rail.eecs.berkeley.edu/deeprlcourse/) 
  - [Deep Reinforcement Learning](https://arxiv.org/pdf/2201.02135.pdf)
- 
+ - [Reinforcement Learning and Stochastic Optimization: A unified framework for sequential decisions. Powell ](https://castlelab.princeton.edu/wp-content/uploads/2019/10/Powell-Reinforcement-Learning-and-Stochastic-Optimization.pdf)
  
 --- 
 # Graph Neural Networks
