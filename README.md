@@ -1,8 +1,8 @@
-# Selected list of links to ML/DS Books
+# Selected (incomplete) list of links to ML/DS resources
 
 Having witnessed a rapid evolution of Data Science as a discipline over the past 15+ years, the breathtaking advances in capability keep coming as we have been in a special era of time.
 
-The below is but a subset of useful literature to help stay current. 
+The below is but a _woefully incomplete_ yet hopefully useful subset of literature resources to help stay current. 
 
 
 ## DL
