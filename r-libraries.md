@@ -9,6 +9,7 @@ Find excellent R packages via [r-pkg.org](https://r-pkg.org).
 | [lubridate](https://github.com/tidyverse/lubridate)                              |
 | [h2o](https://github.com/h2oai/h2o-3)                                            |
 | [brms](https://paul-buerkner.github.io/brms/)                                    |
+| [causalQuartet](https://github.com/jhullman/causalQuartet), [paper](http://www.stat.columbia.edu/~gelman/research/unpublished/causal_quartets.pdf) |
 | [cmdstanr](https://mc-stan.org/cmdstanr/)                                        |
 | [bayesplot](https://mc-stan.org/bayesplot/)                                      |
 | [ggpubr](https://rpkgs.datanovia.com/ggpubr/)                                    |
