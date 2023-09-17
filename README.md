@@ -1,5 +1,9 @@
 # Selected list of links to ML/DS Books
 
+Having witnessed a rapid evolution of Data Science as a discipline over the past 15+ years, the breathtaking advances in capability keep coming as we have been in a special era of time.
+
+The below is but a subset of useful literature to help stay current. 
+
 ## Math 
 
  - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
@@ -29,6 +33,7 @@
 ## DL
 
  - [Deep Learning. Ian Goodfellow, Yoshua Bengio, Aaron Courville ](https://www.deeplearningbook.org/)
+ - [Pytorch deep dive](deep-dives/deep-dive-pytorch.md)
 
 ## RL
 
