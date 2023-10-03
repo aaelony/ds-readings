@@ -8,6 +8,7 @@
 | [feather](https://github.com/wesm/feather)                                                                                                               |
 | [ArviZ](https://arviz-devs.github.io/arviz/examples/index.html)                                                                                          |
 | [PyMc](https://docs.pymc.io/en/v3/)                                                                                                                      |
+| [pymc-marketing](https://github.com/pymc-labs/pymc-marketing)                                                                                            |
 | [bambi](https://bambinos.github.io/bambi/main/index.html), [concrete example](https://app.datacamp.com/workspace/w/57a5d537-5f5d-4458-9234-67267d238fda) |
 | [Pyro](http://pyro.ai/)                                                                                                                                  |
 | [Seaborn](https://seaborn.pydata.org/)                                                                                                                   |
