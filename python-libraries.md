@@ -34,6 +34,7 @@
 | [fire](https://google.github.io/python-fire/)                                                                                                            |
 | [click](https://click.palletsprojects.com/en/8.1.x/)                                                                                                     |
 | [h2o](https://docs.h2o.ai/h2o/latest-stable/h2o-py)                                                                                                      |
+| [sagemaker](https://sagemaker.readthedocs.io/) and [github](https://github.com/aws/sagemaker-python-sdk)                                                 |
 | Postgres via [psycopg2](https://www.psycopg.org/docs/)                                                                                                   |
 | [fastapi](https://fastapi.tiangolo.com/)                                                                                                                 |
 | [requests](https://docs.python-requests.org/en/latest/)                                                                                                  |
