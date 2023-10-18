@@ -54,5 +54,13 @@
 | [simpleitk](https://simpleitk.org/)                                                                                                                      |
 | [pydicom](https://pydicom.github.io/)                                                                                                                    |
 | Type hints. [typing](https://docs.python.org/3/library/typing.html)                                                                                      |
+| [celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html)                                                                           |
+| [ray](https://github.com/ray-project/ray)                                                                                                                |
+| [modin](https://github.com/modin-project/modin#what-is-modin)                                                                                            |
+| [vaex](https://vaex.io/docs/index.html#)                                                                                                                 |
+| [Skypilot](https://skypilot.readthedocs.io/en/latest/index.html)                                                                                         |
+| [vLLM](https://vllm.readthedocs.io/en/latest/index.html)                                                                                                 |
+| [BERTopic](https://github.com/MaartenGr/BERTopic)                                                                                                        |
+
 
 
