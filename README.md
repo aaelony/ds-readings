@@ -4,6 +4,10 @@ Having witnessed a rapid evolution of Data Science as a discipline over the past
 
 The below is but a _woefully incomplete_ yet hopefully useful subset of literature resources to help stay current. 
 
+## General trends
+
+ - [Papers with code](https://paperswithcode.com/)
+ - 
 
 ## DL
 
