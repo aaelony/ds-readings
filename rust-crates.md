@@ -37,3 +37,15 @@
 | hashes                                                      |                                           |
 |-------------------------------------------------------------|-------------------------------------------|
 
+# Books
+ 
+  - [The Rust Programming Language](https://doc.rust-lang.org/book/) by Steve Klabnik, Carol Nichols, Chris Krycho. Also the [Brown Univ](https://rust-book.cs.brown.edu/) version with quiz questions.  
+  - [Rust In Action](https://www.rustinaction.com/) by Tim McNamara
+  - [Programming Rust](https://github.com/francoposa/programming-rust/blob/main/Programming%20Rust%202nd%20Edition.pdf) by Blandy, Orendorff, and Tindall
+  - [Rust for Rustaceans](https://rust-for-rustaceans.com/) by Jon Gjenset
+  - [Zero To Production in Rust](https://www.zero2prod.com/index.html?country_code=US) by Luca Palmieri
+  - [Idiomatic Rust](https://www.manning.com/books/idiomatic-rust?) by Brenden Matthews
+  - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust/blob/master/README.md)
+  - [Rust Atomics and Locks](https://marabos.nl/atomics/) by Mara Bos
+  - [Rust for Blockchain Application Development](https://github.com/PacktPublishing/Rust-for-Blockchain-Application-Development?tab=readme-ov-file) by Akhil Sharma
+  
